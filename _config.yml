@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 37024a66c01c0f56277e                           #生成的clientID
   clientSecret: 73e1329685f067eb6d37d62e285eea0759c61443    #生成的clientSecret
-  repo: Attv.github.io #仓库名称
-  owner: Attv #github用户名
-  admin: ['Attv']
+  repo: Attv.github.io  #仓库名称
+  owner: Attv  #github用户名
+  admin: Attv
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
