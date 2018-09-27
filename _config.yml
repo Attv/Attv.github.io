@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: Dean_lol@163.com
 description: "make each day count."
 keyword: "Attv, Attv Blog, Attv的博客, attv, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://attv.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/attv/attv.github.io.git" # you code repository
 
@@ -77,8 +77,8 @@ gitalk:
 ba_track_id: c8f0a23f0f6f227791fc17b4f8f25d61
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
